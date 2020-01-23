@@ -15,11 +15,6 @@ p{
     font-size: 24px;
     padding-top: 20px;
 }
-/*All text is white on a black background
-Images match the following styles:
-All images are on their own line
-All images are centered
-All images are 525px wide with proper aspect ratio (they are not warped or stretched)*/
 img{
     display: block;
     margin-left: auto;
